@@ -1,1 +1,1 @@
-# papper_scissor_stone
+# Small_Games
